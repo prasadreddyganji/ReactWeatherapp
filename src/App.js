@@ -24,7 +24,7 @@ const App = () => {
 
   return (
     <div className="container">
-      <h1>Fuck OFF LEELA PRASANNA</h1>
+      <h1>Weather App</h1>
       <div className="search-container">
         <input
           type="text"
