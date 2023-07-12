@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import './App.css';
 
-const API_KEY = 'YOURAPIKEY'; // Replace with your own API key
+const API_KEY = '8b935001fd07bd1e686724919170cc31'; // Replace with your own API key
 
 const App = () => {
   const [weatherData, setWeatherData] = useState(null);
